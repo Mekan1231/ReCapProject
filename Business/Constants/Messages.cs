@@ -15,6 +15,6 @@ namespace Business.Constants
         public static string ListedSuccessful = "Listeleme işlemi başarılı";
         public static string MaintenanceTime = "Bakım zamanı";
         public static string GotDetialSuccessful = "Detaylar başarıyla listelendi";
-
+        internal static string ImageAdded;
     }
 }
